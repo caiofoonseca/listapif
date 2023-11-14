@@ -1,12 +1,13 @@
-Instruções de Execução:
+Instruções para Execução:
 
-1. Compile o código usando um compilador C. Por exemplo:
-gcc Leitura.c -o Livraria
+1. Compile o código usando um compilador C, por exemplo:
+   gcc Leitura.c -o Livraria
 
 2. Execute o programa resultante:
-./Livraria
+   ./Livraria
 
-Lista de Modificações:
+Lista de Alterações:
 
-- Adição de uma lista encadeada para armazenar as informações dos livros.
-- Implementação de funções de inserção, busca e remo.
+- Inclusão de uma estrutura de dados em forma de lista encadeada para armazenar as informações dos livros.
+- Implementação de funções para adicionar, pesquisar e remover elementos.
+
